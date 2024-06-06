@@ -1,0 +1,25 @@
+
+<resources>
+    <string name="app_name">kwako</string>
+    <string name="dog_name_1">wowo</string>
+    <string name="dog_name_2">loklu</string>
+    <string name="dog_name_3">yo</string>
+    <string name="dog_name_4">yu</string>
+    <string name="dog_name_5">yen</string>
+    <string name="dog_name_6">bel</string>
+    <string name="dog_name_7">yow</string>
+    <string name="dog_name_8">bon</string>
+    <string name="dog_name_9">troy</string>
+    <string name="dog_description_1">Destroying toys</string>
+    <string name="dog_description_2">Barking at cat</string>
+    <string name="dog_description_3">Eating</string>
+    <string name="dog_description_4">Playing</string>
+    <string name="dog_description_5">Playing</string>
+    <string name="dog_description_6">Chasing sea foam</string>
+    <string name="dog_description_7">Bitting His toy</string>
+    <string name="dog_description_8">Sunbathing</string>
+    <string name="dog_description_9">Walking utside</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
